@@ -38,7 +38,7 @@ Once a device connects to the ESP32's Wi-Fi network, the user can access a web p
                     ┌─────────────────────┐
                     │        ESP32        │
                     │                     │
-                    │   Wi-Fi Access     │
+                    │   Wi-Fi Access      │
                     │       Point         │
                     │          +          │
                     │    Web Server       │
@@ -277,7 +277,7 @@ Tools → Port
 Open:
 
 ```text
-ESP32_Web_LED_Control.ino
+ESP32_Web_LED_Contro.ino
 ```
 
 Compile and upload the program to the ESP32.
@@ -421,18 +421,11 @@ digitalWrite(ledPin17, LOW);
 
 ### Circuit
 
-
-```markdown
 ![ESP32 LED Circuit](circuit-diagram.jpg)
-```
 
 ### Web Interface
 
-Add a screenshot of the web interface here:
-
-```markdown
 ![Web Interface](web-interface.jpg)
-```
 
 ---
 

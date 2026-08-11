@@ -423,7 +423,7 @@ digitalWrite(ledPin17, LOW);
 
 
 ```markdown
-![ESP32 LED Circuit](circuit-diagram.jpg)
+![ESP32 LED Circuit](images/circuit-diagram.jpg)
 ```
 
 ### Web Interface
@@ -431,7 +431,7 @@ digitalWrite(ledPin17, LOW);
 Add a screenshot of the web interface here:
 
 ```markdown
-![Web Interface](web-interface.jpg)
+![Web Interface](images/web-interface.jpg)
 ```
 
 ---

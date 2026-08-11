@@ -112,25 +112,6 @@ The project uses the ESP32 `WiFi.h` library.
 
 ---
 
-## Project Structure
-
-```text
-ESP32-Web-Based-LED-Lighting-System/
-│
-├── ESP32_Web_LED_Control/
-│   └── ESP32_Web_LED_Control.ino
-│
-├── images/
-│   ├── circuit-diagram.png
-│   └── web-interface.png
-│
-└── README.md
-```
-
-The `images` folder is optional. You can add photographs of your actual circuit and screenshots of the web interface there.
-
----
-
 ## How It Works
 
 ### 1. ESP32 Creates a Wi-Fi Network
@@ -169,8 +150,6 @@ The default SoftAP address is commonly:
 ```text
 192.168.4.1
 ```
-
-However, always use the IP address printed by your ESP32.
 
 ---
 
